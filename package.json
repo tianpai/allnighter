@@ -9,6 +9,7 @@
     "categories": [
         "Themes"
     ],
+    "publisher": "tianpai-43",
     "repository": {
         "type": "git",
         "url": "git://github.com/tianpai/allnighter.git"
