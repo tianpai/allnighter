@@ -1,0 +1,21 @@
+{
+    "name": "Allnighter",
+    "displayName": "Allnighter Dark Monochrome",
+    "description": "Distraction-free minimal dark theme for all nighters",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.7.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Allnighter",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Allnighter-color-theme.json"
+            }
+        ]
+    }
+}
