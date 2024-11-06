@@ -14,3 +14,6 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+# TODO/FIXES
+1. Some button and text in the side panel are not visiable if not hover over
